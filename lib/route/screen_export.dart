@@ -1,0 +1,15 @@
+export 'package:ecommerce_app/screens/home/home.dart';
+export 'package:ecommerce_app/screens/onBoarding/on_boarding.dart';
+export 'package:ecommerce_app/screens/splash/splash.dart';
+export 'package:ecommerce_app/screens/auth/auth.dart';
+export 'package:ecommerce_app/screens/auth/password_recovery.dart';
+export 'package:ecommerce_app/screens/location/location.dart';
+export 'package:ecommerce_app/screens/location/search_location.dart';
+export 'package:ecommerce_app/screens/search/search.dart';
+export 'package:ecommerce_app/screens/search/seach_result.dart';
+export 'package:ecommerce_app/screens/tabs/tabs.dart';
+export 'package:ecommerce_app/screens/detail/detail.dart';
+export 'package:ecommerce_app/screens/categories/categories.dart';
+export 'package:ecommerce_app/screens/checkout/checkout.dart';
+export 'package:ecommerce_app/screens/order/order.dart';
+export 'package:ecommerce_app/screens/profile/profile.dart';

@@ -1,0 +1,16 @@
+const String homeRoute = 'home';
+const String onBoardingRoute = 'onBoarding';
+const String splashRoute = 'splash';
+const String authRoute = 'auth';
+const String recoveryRoute = 'passwordRecovery';
+const String locationRoute = 'locationAccess';
+const String searchLocationRoute = 'searchLocation';
+const String searchItemRoute = 'searchItem';
+const String searchResultItemRoute = 'searchResultItem';
+const String tabsBottomRoute = 'tabBottoms';
+const String detailRoute = 'detail';
+const String categoriesRoute = 'categories';
+const String checkOutRoute = 'checkOut';
+const String loginRoute = 'login';
+const String orderRoute = 'orders';
+const String profileRoute = 'profile';
